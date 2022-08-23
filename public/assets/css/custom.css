@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'MNCapuccino';
+    src: url('../font/MNCAPPUCCINO.ttf');
+}
+body {
+
+    /* font-family: 'IBM Plex Sans Thai', sans-serif; */
+    font-family: 'MNCapuccino', sans-serif;
+
+}
